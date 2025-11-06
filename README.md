@@ -1,5 +1,9 @@
 # PorteiroBot
 
+<div align="center">
+<img src="https://i.postimg.cc/1X3fNXz5/Sem-titulo-2025-08-13-2149.png" alt="Arquitetura">
+</div>
+
 ## Instalação 
 
 ```bash
